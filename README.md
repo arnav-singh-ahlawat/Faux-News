@@ -1,10 +1,14 @@
 # Faux News
 
+![#USER-INTERFACE](https://github.com/arnav-singh-ahlawat/Faux-News/assets/159664776/dab19b78-8332-4e13-b500-40f8440db83c)
+
 ## Overview:
 
 Faux News is a news website that fetches the latest news from the News API. It offers a user-friendly interface for browsing and searching news articles. Users can select news categories using navigation bar buttons or type keywords in the search bar to find specific news articles.
 
 ## Video Demo:
+
+https://github.com/arnav-singh-ahlawat/Faux-News/assets/159664776/58d896f7-27a3-4c78-ab1e-878770f52e6a
 
 ## Features:
 
